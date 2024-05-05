@@ -1,3 +1,3 @@
 # Demo
 
-Do nauki.
+Do nauki!
